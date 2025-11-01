@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit - AI project portfolio"
-git branch -M main
-git remote add origin https://github.com/SuryaGanesh07/RetailAI-Analytics-System.git
-git push -u origin main
