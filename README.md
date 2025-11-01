@@ -1,3 +1,3 @@
 # RetailAI-Analytics-System
 
-This is a sample AI project ready for deployment.
+This is a AI project ready for deployment.
